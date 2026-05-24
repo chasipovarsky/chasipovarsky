@@ -37,7 +37,7 @@ Focused on performance, maintainability, clean code, and user experience.
 Full Stack ordering platform built with React, Node.js, and MongoDB including authentication, admin panel, and nested schemas.
 
 ### Chinese Sales Website
-Sales management system developed with Angular and C# .NET using SQL Server and Three-Tier Architecture.
+A comprehensive product sales management system developed with Angular and C# .NET, utilizing SQL Server and Three-Tier Architecture..
 
 ### Guess Who Game
 Interactive JavaScript game with game state management and LocalStorage support.
